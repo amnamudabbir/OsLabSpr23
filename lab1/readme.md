@@ -23,5 +23,10 @@ Task#5
 
 ![image](https://user-images.githubusercontent.com/123716761/217045021-ac5dbc5c-cbb4-42df-a6e0-fd86722c1e5f.png)
 
+[task01.log](https://github.com/amnamudabbir/OsLabSpr23/files/10667819/task01.log)
 
+[task02.log](https://github.com/amnamudabbir/OsLabSpr23/files/10667820/task02.log)
 
+[task03.txt](https://github.com/amnamudabbir/OsLabSpr23/files/10667822/task03.txt)
+[task04.log](https://github.com/amnamudabbir/OsLabSpr23/files/10667823/task04.log)
+[task06.log](https://github.com/amnamudabbir/OsLabSpr23/files/10667828/task06.log)

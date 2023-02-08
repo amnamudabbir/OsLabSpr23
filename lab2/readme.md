@@ -25,11 +25,14 @@ Task#4
 
 Task#5
 
+![image](https://user-images.githubusercontent.com/123716761/217439299-f0688e1c-97c5-43a9-9c60-3011e20fe4a8.png)
+![image](https://user-images.githubusercontent.com/123716761/217439423-47e280b3-283d-4563-bbf3-5c52d5662e1b.png)
+
 
 Task#6
 
 ![image](https://user-images.githubusercontent.com/123716761/217433952-ef157380-9b6d-4f91-9b6e-1965bf27e93b.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/123716761/217436929-b357ae9d-42fc-460a-aa40-fb26762b3be2.png)
 
 
 
